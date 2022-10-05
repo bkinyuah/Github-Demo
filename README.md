@@ -1,3 +1,3 @@
-# Deom
+# Demo
 
 Training Guide Description
